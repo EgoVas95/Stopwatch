@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="reset_button">Сброс</string>
+    <string name="stop_button">Стоп</string>
+    <string name="start_button">Старт</string>
+    <string name="resume_button">Возобновить</string>
+    <string name="time_format_pattern">mm:ss.SSS</string>
+</resources>
